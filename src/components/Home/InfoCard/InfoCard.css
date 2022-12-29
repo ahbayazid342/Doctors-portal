@@ -1,0 +1,22 @@
+.info-primary {
+	background-color: rgb(72, 2, 70);
+	color: whitesmoke;
+}
+
+.info-dark {
+	background-color: rgb(13, 1, 32);
+	color: rgb(26, 235, 203);
+}
+
+.info-icon {
+	font-size: 3em;
+}
+
+.info-con {
+	height: 120px;
+	padding: 40px;
+}
+
+.info-card {
+	margin-bottom: 10px;
+}
